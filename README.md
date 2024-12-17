@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 error: a null pointer exception caused by accessing properties of an object that may be null.  The bug occurs in an event handler where the object's initialization might not have completed before the event is dispatched. The solution shows how to check for null before accessing properties.
